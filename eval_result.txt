@@ -1,0 +1,78 @@
+LP on LP
+
+Evaluating: 7h 41min
+{0: 'Acc: 0.9991100276373721 ; Percentage 0.1425',
+ 1: 'Acc: 0.9987057170615906 ; Percentage 0.14010714285714285',
+ 2: 'Acc: 0.9990222932755649 ; Percentage 0.1399642857142857',
+ 3: 'Acc: 0.9972067351397093 ; Percentage 0.1432857142857143',
+ 4: 'Acc: 0.9947309317755917 ; Percentage 0.14696428571428571',
+ 5: 'Acc: 0.989994880090572 ; Percentage 0.14289285714285715',
+ 6: 'Acc: 0.9681407895800715 ; Percentage 0.1442857142857143'}
+
+Final Reporting
+
+99.242
+
+
+LP on RP
+
+Evaluating:
+{0: 'Acc: 0.9958890943755981 ; Percentage 0.14507142857142857',
+ 1: 'Acc: 0.9562271758534931 ; Percentage 0.1427857142857143',
+ 2: 'Acc: 0.6857988648263024 ; Percentage 0.14507142857142857',
+ 3: 'Acc: 0.5959190558284213 ; Percentage 0.13857142857142857',
+ 4: 'Acc: 0.6140894161660881 ; Percentage 0.14507142857142857',
+ 5: 'Acc: 0.6602585576004656 ; Percentage 0.1409642857142857',
+ 6: 'Acc: 0.6573993268455671 ; Percentage 0.1424642857142857'}
+Final Reporting
+/content/drive/MyDrive/advai/scripts/DATA/RP/prop_examples.balanced_by_backward.max_6.json_val
+
+73.794
+
+
+RP on RP
+
+Evaluating:
+{0: 'Acc: 0.9977515625694912 ; Percentage 0.14507142857142857',
+ 1: 'Acc: 0.9928261204871003 ; Percentage 0.1427857142857143',
+ 2: 'Acc: 0.9774180730307116 ; Percentage 0.14507142857142857',
+ 3: 'Acc: 0.9797251744555155 ; Percentage 0.13857142857142857',
+ 4: 'Acc: 0.9762047844916227 ; Percentage 0.14507142857142857',
+ 5: 'Acc: 0.9555340531546538 ; Percentage 0.1409642857142857',
+ 6: 'Acc: 0.9534000456141607 ; Percentage 0.1424642857142857'}
+Final Reporting
+/content/drive/MyDrive/advai/scripts/DATA/RP/prop_examples.balanced_by_backward.max_6.json_val
+
+97.612
+{'/content/drive/MyDrive/advai/scripts/DATA/RP/prop_examples.balanced_by_backward.max_6.json_val': '97.612'}
+
+
+RP on LP (4 epochs)
+
+Evaluating: 100% 1347/1347 [01:46<00:00, 12.69it/s]
+{0: 'Acc: 0.9994166483074705 ; Percentage 0.1425',
+ 1: 'Acc: 0.9995393763163111 ; Percentage 0.14010714285714285',
+ 2: 'Acc: 0.9981905619085204 ; Percentage 0.1399642857142857',
+ 3: 'Acc: 0.9825413015173565 ; Percentage 0.1432857142857143',
+ 4: 'Acc: 0.9314482807923039 ; Percentage 0.14696428571428571',
+ 5: 'Acc: 0.8488156104777613 ; Percentage 0.14289285714285715',
+ 6: 'Acc: 0.6994885140545735 ; Percentage 0.1442857142857143'}
+Final Reporting
+/content/drive/MyDrive/advai/scripts/DATA/LP/prop_examples.balanced_by_backward.max_6.json_val
+
+92.278
+
+1 epoch 
+
+Evaluating: 100% 1347/1347 [01:46<00:00, 12.62it/s]
+{0: 'Acc: 0.9991180053815982 ; Percentage 0.1425',
+ 1: 'Acc: 0.9767935997059485 ; Percentage 0.14010714285714285',
+ 2: 'Acc: 0.9524347861353366 ; Percentage 0.1399642857142857',
+ 3: 'Acc: 0.8910105824614465 ; Percentage 0.1432857142857143',
+ 4: 'Acc: 0.7060442739733008 ; Percentage 0.14696428571428571',
+ 5: 'Acc: 0.5623168050120277 ; Percentage 0.14289285714285715',
+ 6: 'Acc: 0.38750521821405454 ; Percentage 0.1442857142857143'}
+Final Reporting
+/content/drive/MyDrive/advai/scripts/DATA/LP/prop_examples.balanced_by_backward.max_6.json_val
+
+78.217
